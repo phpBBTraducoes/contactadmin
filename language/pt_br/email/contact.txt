@@ -1,0 +1,12 @@
+Assunto: {SUBJECT}
+
+Olá {ADM_USERNAME},
+
+Um usuário de nome "{USERNAME}" com o endereço de e-mail "{USER_EMAIL}" e um endereço de IP "{USER_IP}" em "{DATE}" enviou a seguinte mensagem:
+
+{MESSAGE}
+
+usando o formulário de contato no "{SITENAME}".
+
+
+{EMAIL_SIG}
